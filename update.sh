@@ -1,12 +1,12 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » GhalihxScript
-# Email      » ghalihputra8@gmail.com
-# telegram   » https://t.me/ghxlih
-# whatsapp   » wa.me/+6283834366608
+# Develovers » widiacloud
+# Email      » seman.vivo@gmail.com
+# telegram   » https://t.me/widiacloud
+# whatsapp   » wa.me/+6287765294591
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Ghalihxscript
+# widiacloud
 
 clear
 fun_bar() {
@@ -36,7 +36,7 @@ fun_bar() {
     tput cnorm
 }
 res1() {
-    wget https://raw.githubusercontent.com/Ghalihx/scupdate/main/menu/menu.zip
+    wget https://raw.githubusercontent.com/raitowind/autoscr/main/menu/menu.zip
     unzip menu.zip
     chmod +x menu/*
     mv menu/* /usr/local/sbin

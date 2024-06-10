@@ -1,12 +1,12 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » GhalihxScript
-# Email      » ghalihputra8@gmail.com
-# telegram   » https://t.me/ghxlih
-# whatsapp   » wa.me/+6283834366608
+# Develovers » widiacloud
+# Email      » seman.vivo@gmail.com
+# telegram   » https://t.me/widiacloud
+# whatsapp   » wa.me/+6287765294591
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Ghalihxscript
+# widiacloud
 
 NS=$( cat /etc/xray/dns )
 PUB=$( cat /etc/slowdns/server.pub )
@@ -18,13 +18,13 @@ NC='\e[0m'
 apt update && apt upgrade
 apt install python3 python3-pip git
 cd /usr/bin
-wget https://raw.githubusercontent.com/Ghalihx/scupdate/main/bot/bot.zip
+wget https://raw.githubusercontent.com/raitowind/autoscr/main/bot/bot.zip
 unzip bot.zip
 mv bot/* /usr/bin
 chmod +x /usr/bin/*
 rm -rf bot.zip
 clear
-wget https://raw.githubusercontent.com/Ghalihx/scupdate/main/bot/kyt.zip
+wget https://raw.githubusercontent.com/raitowind/autoscr/main/bot/kyt.zip
 unzip kyt.zip
 pip3 install -r kyt/requirements.txt
 

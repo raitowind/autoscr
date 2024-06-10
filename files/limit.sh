@@ -1,14 +1,14 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » GhalihxScript
-# Email      » ghalihputra8@gmail.com
-# telegram   » https://t.me/ghxlih
-# whatsapp   » wa.me/+6283834366608
+# Develovers » widiacloud
+# Email      » seman.vivo@gmail.com
+# telegram   » https://t.me/widiacloud
+# whatsapp   » wa.me/+6287765294591
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Ghalihxscript
+# widiacloud
 
-REPO="https://raw.githubusercontent.com/Ghalihx/scupdate/main/"
+REPO="https://raw.githubusercontent.com/raitowind/autoscr/main/"
 wget -q -O /etc/systemd/system/limitvmess.service "${REPO}files/limitvmess.service" && chmod +x limitvmess.service >/dev/null 2>&1
 wget -q -O /etc/systemd/system/limitvless.service "${REPO}files/limitvless.service" && chmod +x limitvless.service >/dev/null 2>&1
 wget -q -O /etc/systemd/system/limittrojan.service "${REPO}files/limittrojan.service" && chmod +x limittrojan.service >/dev/null 2>&1

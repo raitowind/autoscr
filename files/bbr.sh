@@ -1,12 +1,12 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » GhalihxScript
-# Email      » ghalihputra8@gmail.com
-# telegram   » https://t.me/ghxlih
-# whatsapp   » wa.me/+6283834366608
+# Develovers » widiacloud
+# Email      » seman.vivo@gmail.com
+# telegram   » https://t.me/widiacloud
+# whatsapp   » wa.me/+6287765294591
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Ghalihxscript
+# widiacloud
 
 red='\e[1;31m'
 green='\e[0;32m'
